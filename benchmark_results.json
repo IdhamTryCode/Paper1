@@ -1,10 +1,12 @@
 {
-  "dataset": "synthetic",
-  "algorithm": "lasso",
-  "training_time_seconds": 0.0013816999999107793,
-  "peak_memory_mb": 0.45703125,
-  "rmse": 30.608416160474913,
-  "mae": 24.70921244873417,
-  "r2_score": 0.9757967781596899,
-  "timestamp": "2025-08-02T22:49:42.425321"
+  "language": "python",
+  "task_type": "clustering",
+  "algorithm": "gaussian_mixture",
+  "dataset": "iris",
+  "alpha": 1.0,
+  "timestamp": "2025-08-02T23:23:24.148993",
+  "training_time_seconds": 1.4379746913909912,
+  "peak_memory_mb": 143.34375,
+  "silhouette_score": 0.4751434694267145,
+  "calinski_harabasz_score": 141.23147584476084
 }
